@@ -8663,19 +8663,20 @@ header {
 
 .btn {
   background-color: #0000ff;
-  border-color: #0000ff; }
+  border-color: #28a745; }
 
 .page-link {
   background-color: #fcdb31 !important;
-  border-color: #fcdb31 !important;
+  border-color: #28a745 !important;
   color: #0000ff !important; }
 
 .active .page-link {
   background-color: #0000ff !important;
-  border-color: #0000ff !important;
+  border-color: #28a745 !important;
   color: #fcdb31 !important; }
 
 .active .page-link:hover {
+  border-color: #0000ff !important;
   background-color: #28a745 !important; }
 
 .card {

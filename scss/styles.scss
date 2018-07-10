@@ -75,21 +75,22 @@ header {
 }
 .btn{
  	background-color: $color_blue_approx;
- 	border-color: $color_blue_approx;
+ 	border-color: $approx_green;
 }
 
 .page-link{
 	 	background-color: $paginyellow!important;
-	 	border-color: $paginyellow!important;
+	 	border-color: $approx_green!important;
 		color: $color_blue_approx!important;
 }
 .active{
 		.page-link{
 			 	background-color: $color_blue_approx!important;
-			 	border-color: $color_blue_approx!important;
+			 	border-color: $approx_green!important;
 				color: $paginyellow!important;
 		}
 		.page-link:hover{
+			border-color: $color_blue_approx!important;
 			background-color: $approx_green!important;
 		}
 }
